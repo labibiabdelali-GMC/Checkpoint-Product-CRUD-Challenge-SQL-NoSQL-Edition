@@ -1,0 +1,14 @@
+{
+  "name": "product-crud-sql-nosql",
+  "version": "1.0.0",
+  "description": "Product CRUD with MongoDB (Mongoose) and MySQL (mysql2)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "mysql2": "^3.10.2"
+  }
+}
